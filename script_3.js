@@ -1,0 +1,1 @@
+window.isSSO=!1,window.brand="feishu",window.isServerBrandLark=!1,window.dataLayer=window.dataLayer||[],window.selfLink=window.location.href,window.selfSearch=window.location.search

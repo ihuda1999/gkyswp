@@ -1,0 +1,6 @@
+{
+  "name": "顾客遗失物品登记系统",
+  "description": "餐饮门店遗失物品线上数字化全流程管理系统",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
